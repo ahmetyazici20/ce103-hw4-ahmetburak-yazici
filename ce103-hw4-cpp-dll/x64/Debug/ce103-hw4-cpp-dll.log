@@ -1,0 +1,20 @@
+﻿  ce103-hw4-cpp-dll.cpp
+C:\Users\ahmet\OneDrive\Masaüstü\ce103-hw4-ahmetburak-yazıcı\ce103-hw4-cpp-dll\ce103-hw4-cpp-dll.h(6,28): warning C4273: 'hw4_fibonacciNumber': inconsistent dll linkage
+C:\Users\ahmet\OneDrive\Masaüstü\ce103-hw4-ahmetburak-yazıcı\ce103-hw4-c-dll\ce103-hw4-c-dll.h(124,28): message : see previous definition of 'hw4_fibonacciNumber'
+C:\Users\ahmet\OneDrive\Masaüstü\ce103-hw4-ahmetburak-yazıcı\ce103-hw4-cpp-dll\ce103-hw4-cpp-dll.h(8,30): warning C4273: 'hw4_strrev': inconsistent dll linkage
+C:\Users\ahmet\OneDrive\Masaüstü\ce103-hw4-ahmetburak-yazıcı\ce103-hw4-c-dll\ce103-hw4-c-dll.h(133,30): message : see previous definition of 'hw4_strrev'
+C:\Users\ahmet\OneDrive\Masaüstü\ce103-hw4-ahmetburak-yazıcı\ce103-hw4-cpp-dll\ce103-hw4-cpp-dll.h(10,28): warning C4273: 'hw4_strlen': inconsistent dll linkage
+C:\Users\ahmet\OneDrive\Masaüstü\ce103-hw4-ahmetburak-yazıcı\ce103-hw4-c-dll\ce103-hw4-c-dll.h(149,28): message : see previous definition of 'hw4_strlen'
+C:\Users\ahmet\OneDrive\Masaüstü\ce103-hw4-ahmetburak-yazıcı\ce103-hw4-cpp-dll\ce103-hw4-cpp-dll.h(12,30): warning C4273: 'hw4_strcat': inconsistent dll linkage
+C:\Users\ahmet\OneDrive\Masaüstü\ce103-hw4-ahmetburak-yazıcı\ce103-hw4-c-dll\ce103-hw4-c-dll.h(165,30): message : see previous definition of 'hw4_strcat'
+C:\Users\ahmet\OneDrive\Masaüstü\ce103-hw4-ahmetburak-yazıcı\ce103-hw4-cpp-dll\ce103-hw4-cpp-dll.h(14,28): warning C4273: 'hw4_strcmp': inconsistent dll linkage
+C:\Users\ahmet\OneDrive\Masaüstü\ce103-hw4-ahmetburak-yazıcı\ce103-hw4-c-dll\ce103-hw4-c-dll.h(183,28): message : see previous definition of 'hw4_strcmp'
+C:\Users\ahmet\OneDrive\Masaüstü\ce103-hw4-ahmetburak-yazıcı\ce103-hw4-cpp-dll\ce103-hw4-cpp-dll.h(16,30): warning C4273: 'hw4_strcpy': inconsistent dll linkage
+C:\Users\ahmet\OneDrive\Masaüstü\ce103-hw4-ahmetburak-yazıcı\ce103-hw4-c-dll\ce103-hw4-c-dll.h(200,30): message : see previous definition of 'hw4_strcpy'
+C:\Users\ahmet\OneDrive\Masaüstü\ce103-hw4-ahmetburak-yazıcı\ce103-hw4-cpp-dll\ce103-hw4-cpp-dll.h(18,29): warning C4273: 'hw4_hex2bin': inconsistent dll linkage
+C:\Users\ahmet\OneDrive\Masaüstü\ce103-hw4-ahmetburak-yazıcı\ce103-hw4-c-dll\ce103-hw4-c-dll.h(215,29): message : see previous definition of 'hw4_hex2bin'
+C:\Users\ahmet\OneDrive\Masaüstü\ce103-hw4-ahmetburak-yazıcı\ce103-hw4-cpp-dll\ce103-hw4-cpp-dll.h(20,29): warning C4273: 'hw4_bin2hex': inconsistent dll linkage
+C:\Users\ahmet\OneDrive\Masaüstü\ce103-hw4-ahmetburak-yazıcı\ce103-hw4-c-dll\ce103-hw4-c-dll.h(228,29): message : see previous definition of 'hw4_bin2hex'
+  LINK : C:\Users\ahmet\OneDrive\Masaüstü\ce103-hw4-ahmetburak-yazıcı\output\Debug\ce103-hw4-cpp-dll.dll not found or not built by the last incremental link; performing full link
+     Creating library C:\Users\ahmet\OneDrive\Masaüstü\ce103-hw4-ahmetburak-yazıcı\output\Debug\ce103-hw4-cpp-dll.lib and object C:\Users\ahmet\OneDrive\Masaüstü\ce103-hw4-ahmetburak-yazıcı\output\Debug\ce103-hw4-cpp-dll.exp
+  ce103-hw4-cpp-dll.vcxproj -> C:\Users\ahmet\OneDrive\Masaüstü\ce103-hw4-ahmetburak-yazıcı\output\Debug\ce103-hw4-cpp-dll.dll

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fbcf012c-25d4-4557-ae97-00bd16b380b4": {
+      "ProjectGuid": "fbcf012c-25d4-4557-ae97-00bd16b380b4",
+      "DisplayName": "ce103-hw4-c-dll",
+      "ColorIndex": 0
+    },
+    "f3685194-04d7-4e9a-b689-c6e679688e2a": {
+      "ProjectGuid": "f3685194-04d7-4e9a-b689-c6e679688e2a",
+      "DisplayName": "ce103-hw4-cpp-dll",
+      "ColorIndex": 1
+    },
+    "b4fbdcfe-912e-4a51-87f9-18deaebaadb8": {
+      "ProjectGuid": "b4fbdcfe-912e-4a51-87f9-18deaebaadb8",
+      "DisplayName": "ce103-hw4-cs-dll",
+      "ColorIndex": 2
+    },
+    "019d9dac-14ee-4d40-803c-c3e770ae8ce5": {
+      "ProjectGuid": "019d9dac-14ee-4d40-803c-c3e770ae8ce5",
+      "DisplayName": "ce103-hw4-test",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
